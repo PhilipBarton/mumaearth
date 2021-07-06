@@ -2,6 +2,8 @@ body {
   background-image: url("https://github.com/PhilipBarton/mumaearth/blob/main/BACKGROUND.jpg?raw=true");
  background-color: #cccccc;
      font-family: 'Open Sans', sans-serif;
+  background-size: contain;
+  background-position:fixed;
 }
 
 h1{
@@ -9,4 +11,6 @@ h1{
   font-size:200px;
 text-align: center;
      font-family: 'Open Sans', sans-serif;
+    top: 90px;
+    position: fixed;
 }
