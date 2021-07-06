@@ -2,16 +2,16 @@ body {
   background-image: url("https://github.com/PhilipBarton/mumaearth/blob/main/BACKGROUND.jpg?raw=true");
  background-color: #cccccc;
      font-family: 'Open Sans', sans-serif;
-  background-size: contain;
-  background-position:fixed;
-}
+    background-attachment: fixed;
+    background-size: contain;}
 
 h1{
   font-weight: 800;
-  font-size:200px;
+  font-size:150px;
 text-align: center;
      font-family: 'Open Sans', sans-serif;
     top: 90px;
+  position: relative;
    
 }
 .typewriter h1 {
